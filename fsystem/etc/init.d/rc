@@ -1,0 +1,8 @@
+#!/bin/sh
+mount -t proc none /proc
+mount -t sysfs none /sys
+clear
+cat greet
+echo "OS created with the help of this github repo - https://kenodh.github.io/ICS4/os/lib.html"
+echo "You may use basic Linux commands like 'mkdir' and 'echo'."
+exec /bin/sh
