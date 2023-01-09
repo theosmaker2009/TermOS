@@ -1,5 +1,5 @@
 # TermOS
-A terminal based OS made with the help of - ![https://kenodh.github.io/ICS4/os/lib.html](https://kenodh.github.io/ICS4/os/lib.html)
+A terminal based OS made with the help of - [https://kenodh.github.io/ICS4/os/lib.html](https://kenodh.github.io/ICS4/os/lib.html)
 
 #### How to use
 You may use basic Linux commands like `echo`, `mkdir`, etc. 
